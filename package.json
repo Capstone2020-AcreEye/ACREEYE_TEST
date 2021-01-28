@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Capstone2020-AcreEye/ACREEYE_TEST.git"
   },
-  "author": "",
+  "authors": "Akif Manzoor, Adil Ughratdar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Capstone2020-AcreEye/ACREEYE_TEST/issues"
   },
-  "homepage": "https://github.com/Capstone2020-AcreEye/ACREEYE_TEST#readme"
+  "homepage": "https://github.com/Capstone2020-AcreEye/ACREEYE_TEST#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
 }
